@@ -1,0 +1,19 @@
+{
+  "name": "foodfiesta",
+  "version": "1.0.0",
+  "description": "FoodFiesta - Food Ordering App",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magneto-09/FoodFiesta.git"
+  },
+  "author": "Piyush Sharma (NamasteReact)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/magneto-09/FoodFiesta/issues"
+  },
+  "homepage": "https://github.com/magneto-09/FoodFiesta#readme"
+}
